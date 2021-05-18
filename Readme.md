@@ -1,5 +1,9 @@
 # ducks
 
+## Background
+
+This is a duck simulation app.
+
 ## Initial setup
 
 `npm init -y`
